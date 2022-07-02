@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\rachamim.KEYSIGHT\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\rachamim.KEYSIGHT\\.nuget\\packages"
+    ]
+  }
+}
